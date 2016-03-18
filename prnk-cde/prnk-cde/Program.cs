@@ -20,7 +20,7 @@ namespace sysmgr
     /// A prank application that jumbles keyboard and mouse input.
     /// </summary>
     /// 
-    /// Application Name: "sysmgr"
+    /// Application Name: "prnk_cde"
     /// Developer: Brayden Hay
     /// Code Originally By: Barnacules
     class Program
