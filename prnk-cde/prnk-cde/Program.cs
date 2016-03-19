@@ -14,13 +14,13 @@ using System.Windows.Forms;
 //For playing system sounds.
 using System.Media;
 
-namespace sysmgr
+namespace prnkcde
 {
     /// <summary>
     /// A prank application that jumbles keyboard and mouse input.
     /// </summary>
     /// 
-    /// Application Name: "prnk_cde"
+    /// Application Name: "prnk-cde"
     /// Developer: Brayden Hay
     /// Code Originally By: Barnacules
     class Program
@@ -33,7 +33,7 @@ namespace sysmgr
         /// <param name="args">Useless Arguments</param>
         static void Main(string[] args)
         {
-            Console.WriteLine("sysmgr program by Brayden Hay, based off of code by Jerry (aka. Barnacules).");
+            Console.WriteLine("prnk-cde program by Brayden Hay, based off of code by Jerry (aka. Barnacules).");
             Console.WriteLine();
 
             //Create threads for various generators.
