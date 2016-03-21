@@ -144,8 +144,8 @@ namespace prnkcde
                 //Send the char's input.
                 SendKeys.SendWait(key.ToString());
 
-                //Wait between 0.5 and 1.5 seconds to reiterate loop.
-                Thread.Sleep(_random.Next(1000) + 500);
+                //Wait between 0.5 and 10.5 seconds to reiterate loop.
+                Thread.Sleep(_random.Next(10000) + 500);
             }
         }
 
